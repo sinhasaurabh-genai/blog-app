@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg
+python-dotenv
+openai
+langchain
+langgraph
+pydantic
+pydantic-settings
