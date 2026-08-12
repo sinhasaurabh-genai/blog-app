@@ -8,3 +8,4 @@ langchain
 langgraph
 pydantic
 pydantic-settings
+psycopg2
