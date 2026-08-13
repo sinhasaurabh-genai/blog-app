@@ -25,7 +25,6 @@ class PostResponse(PostBase):
 
 class GenerateDraftRequest(BaseModel):
     topic: str = Field(min_length=1, max_length=500)
-    tone: str | None = Field(default=None, max_length=50)
 
 
 class GenerateDraftResponse(BaseModel):
